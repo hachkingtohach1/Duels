@@ -1,0 +1,17 @@
+{
+    "name": "Duels",
+    "author": "hachkingtohach1",
+    "api": [
+        "3.0.0"
+    ],
+    "mcpe-protocol": [
+        "361", "388",
+        "389", "390",
+        "408"
+    ],
+    "version": "1.1.0",
+    "main": "hachkingtohach1\\duels\\Main",
+    "website": "https://devilcry-pe.weebly.com/",
+    "description": "Plugin Duels, one minigame for pocketmine_pmmp.",
+    "permissions": {}
+}

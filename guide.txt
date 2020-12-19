@@ -1,0 +1,28 @@
+$$$$$$$\                                        $$\                 
+$$  __$$\                                       $$ |                
+$$ |  $$ |      $$\   $$\        $$$$$$\        $$ |       $$$$$$$\ 
+$$ |  $$ |      $$ |  $$ |      $$  __$$\       $$ |      $$  _____|
+$$ |  $$ |      $$ |  $$ |      $$$$$$$$ |      $$ |      \$$$$$$\  
+$$ |  $$ |      $$ |  $$ |      $$   ____|      $$ |       \____$$\ 
+$$$$$$$  |      \$$$$$$  |      \$$$$$$$\       $$ |      $$$$$$$  |
+\_______/        \______/        \_______|      \__|      \_______/
+
+Website: https://devilcry-pe.weebly.com/      
+
+* Create arena with data format like this *
+
+1: Create one folder with name example.yml
+2: Config it like this
+*******************************************
+        players: []
+        spawnlobby: "x,y,z"
+        spawn1: "x,y,z"
+        spawn2: "x,y,z"
+        status: 0
+        level: "level for example"
+        id: "example"
+        name: "example"
+        mode: "combofly/..."
+*******************************************
+3: You need create one File Zip with name level_folder_exmaple.zip
+4: Finish and run plugin!  

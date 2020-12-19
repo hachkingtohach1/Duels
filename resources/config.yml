@@ -1,0 +1,28 @@
+---
+#   $$$$$$$\                                                                $$\                 
+#   $$    __$$\                                                               $$ |                
+#   $$ |      $$ |       $$\     $$\           $$$$$$\         $$ |       $$$$$$$\ 
+#   $$ |      $$ |       $$ |     $$ |       $$     __$$\       $$ |      $$  _____|
+#   $$ |      $$ |       $$ |     $$ |       $$$$$$$$ |      $$ |      \$$$$$$\  
+#   $$ |      $$ |       $$ |     $$ |       $$       ____|      $$ |       \____$$\ 
+#   $$$$$$$  |       \$$$$$$  |       \$$$$$$$\       $$ |      $$$$$$$  |
+#   \_______/            \______/           \_______|      \__|      \_______/
+# Website: https://devilcry-pe.weebly.com/      
+
+## Data Base 
+#  format: yml, sql
+database: "yml"
+# MySQL
+MySQL-Info:
+  Host: 127.0.0.1
+  User: root
+  Password: 
+  Database: DevilCry
+  Port: 3306
+
+## Config Scoreboard for duels
+scoreboard_bridge:
+    text: "§7{day/moth/year} {status}\n\nMode: §a{mode}\n§l§1[B] §r§a{pointsblue}§7/5 §l§c[R] §r§a{pointsred}§7/5\n§fKills: §a{kills} §fGoals: §a{goals}\n§cdevilcry.sytes.net"
+scoreboard:
+    text: "§7{day/moth/year} {status}\n\nMode: §a{mode}\n§cdevilcry.sytes.net"
+...
